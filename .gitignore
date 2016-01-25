@@ -3,7 +3,7 @@
 *.ko
 *.obj
 *.elf
-
+tests
 # Precompiled Headers
 *.gch
 *.pch
