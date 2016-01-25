@@ -47,7 +47,10 @@ codes of operations
 #define CIN     0x30
 #define CINS    0x31
 #define COUT	0x32
-
+#define CSET	0x40
+#define CSETI	0x41
+#define CSETE	0x42
+#define CSETS	0x43
 #define CHALT	0xff
 
 #endif
